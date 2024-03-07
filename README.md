@@ -1,5 +1,5 @@
 # 💫 About Me:
-JS/PY/TS Developer ✨ | Cyber security learning 🚀
+JS/PY/TS Developer ✨ | Cyber security learning 🚀 | Panels DDOS, DOX
 
 
 ## 🌐 Socials:
